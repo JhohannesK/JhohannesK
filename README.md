@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there Friends👋
+I'm **Domeh John Kelvin**
 <!--
 **JhohannesK/JhohannesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning about python-django and SQL.
+- I'm to to collaborate with anyone with projects on web development in which I can help with the backend.
+- You can ask anything about linux and programming. Really love them.
+
+Reach on via:
+Twitter ==== @_jhohannes | 
+Email ==== jdomeh77@gmail.com or johnnartey99@gmail.com | 
+Whatsapp == +233 559 6030 60
