@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
 </p>
-
+<br>
 <h2 align=center>Operating System 🐧</h2>
 <p align=center>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -27,13 +27,11 @@
 <a href="https://twitter.com/_jhohannes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/john-domeh-8a21861b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khelvynj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khelvynj" height="30" width="40" /></a>
-
 <br>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
 <p><strong>  +233 559 603 060</strong></p>
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40">
 <p><strong>jdomeh77@gmail.com</strong></p>
-<br>
 <br>
 
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
