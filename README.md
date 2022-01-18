@@ -1,36 +1,44 @@
 <h1 align="center">Hi there, Friend👋🏽. I'm <span>Domeh John Kelvin</span></h1>
 
-<!--
-**JhohannesK/JhohannesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center><strong> A passionately curious boy </strong></p>
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on any project concerning django and web development.
+- 🤔 I’m looking for help with django and CSS 😒🤌🏾.
+- 💬 Ask me about linux and web development 🤞🏾
+- ⚡ Fun fact: I think I can learn everything that interests me 😍😛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=JhohannesK&show_icons=true&theme=radical&count_private=true" />
-<img width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhohannesK&layout=compact" />
-
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<h2 align=center>Programming Languages🍃 And Frameworks</h2>
+<p align=center>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+<img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
+</p>
 
-I'm currently learning about python-django and SQL.
-- I'm to to collaborate with anyone with projects on web development in which I can help with the backend.
-- You can ask anything about linux and programming. Really love them.
-
-
-<h3>Operating System 🐧</h3>
-<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<h2 align=center>Operating System 🐧</h2>
+<p align=center>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+</p>
+<br>
 
-Reach on via:
-Twitter ==== @_jhohannes | 
-Email ==== jdomeh77@gmail.com or johnnartey99@gmail.com | 
-Whatsapp == +233 559 6030 60
+<h2 align=center> 🫂 Connect with me 👨🏾‍🏫</h2>
+<a href="https://twitter.com/_jhohannes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/john-domeh-8a21861b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khelvynj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khelvynj" height="30" width="40" /></a>
+
+<br>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
+<p><strong>  +233 559 603 060</strong></p>
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40">
+<p><strong>jdomeh77@gmail.com</strong></p>
+<br>
+<br>
+
+<h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=JhohannesK&show_icons=true&theme=radical&count_private=true" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=JhohannesK&theme=tokyonight" />
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhohannesK&layout=compact&theme=tokyonight" height=150/>
+</p>
