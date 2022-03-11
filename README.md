@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, Friend👋🏽. I'm <span>Domeh John Kelvin</span></h1>
 
-<p align=center><strong> A passionately curious boy </strong></p>
+<p align=center><strong> A passionately curious person </strong></p>
 
-- 👯 I’m looking to collaborate on any project concerning django and web development.
+- 👯 I’m looking to collaborate on any project concerning web development.
 - 🤔 I’m looking for help with django and CSS 😒🤌🏾.
 - 💬 Ask me about linux and web development 🤞🏾
 - ⚡ Fun fact: I think I can learn everything that interests me 😍😛
