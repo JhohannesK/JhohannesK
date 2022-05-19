@@ -1,11 +1,23 @@
-<h1 align="center">Hi there, Friend👋🏽. I'm <span>Domeh John Kelvin</span></h1>
+<h1 align="center">Hi there, Friend👋🏽.</h1>
 
 <p align=center><strong> A passionately curious person </strong></p>
 
-- 👯 I’m looking to collaborate on any project concerning web development.
-- 🤔 I’m looking for help with django and CSS 😒🤌🏾.
-- 💬 Ask me about linux and web development 🤞🏾
-- ⚡ Fun fact: I think I can learn everything that interests me 😍😛
+```bash
+> whoami
+  Domeh John Kelvin Tetteh
+```
+
+```python
+Jhohannes
+-----------------
+
+OS:         Windows
+Shell:      ZSH
+Pronouns:   He/Him
+Country:    Ghana
+Languages:  Javascript, Python
+Learning:   Java
+```
 
 <h2 align=center>Programming Languages🍃 And Frameworks</h2>
 
@@ -38,7 +50,7 @@
 </p>
 <br>
 
-<h2 align=center> 🫂 Connect with me 👨🏾‍🏫</h2>
+<h2 align=center> 🫂 Connect with me 🔌</h2>
 <a href="https://twitter.com/_jhohannes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/john-domeh-8a21861b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khelvynj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khelvynj" height="30" width="40" /></a>
@@ -48,10 +60,9 @@
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40">
 <p><strong>jdomeh77@gmail.com</strong></p>
 <br>
-
+<!-- Github stats -->
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=JhohannesK&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=JhohannesK&theme=tokyonight" />
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhohannesK&layout=compact&theme=tokyonight" height=150/>
 </p>
