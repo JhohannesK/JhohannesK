@@ -43,6 +43,7 @@ Learning:   Java
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 <br>
+<!-- Operating System  -->
 <h2 align=center>Operating System 🐧</h2>
 <p align=center>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -50,6 +51,7 @@ Learning:   Java
 </p>
 <br>
 
+<!--Social Networks  -->
 <h2 align=center> 🫂 Connect with me 🔌</h2>
 <a href="https://twitter.com/_jhohannes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/john-domeh-8a21861b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
