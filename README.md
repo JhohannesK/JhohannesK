@@ -53,14 +53,12 @@ Learning:   Java
 
 <!--Social Networks  -->
 <h2 align=center> 🫂 Connect with me 🔌</h2>
-<a href="https://twitter.com/_jhohannes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_jhohannes" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/john-domeh-8a21861b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Domeh John" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khelvynj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khelvynj" height="30" width="40" /></a>
-<br>
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" />
-<p><strong>  +233 559 603 060</strong></p>
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40">
-<p><strong>jdomeh77@gmail.com</strong></p>
+<p align=center>
+<a href="https://www.linkedin.com/in/john-domeh-8a21861b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://dev.to/_jhohannes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://www.instagram.com/JhohannesK/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="jdomeh77@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 <br>
 <!-- Github stats -->
 <h2 align=center><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=30 width=40 /> My Github Stats 📈 </h2>
