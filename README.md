@@ -2,6 +2,8 @@
 
 <p align=center><strong> A passionately curious person </strong></p>
 
+![Profile views](https://gpvc.arturio.dev/JhohannesK)
+
 ```bash
 > whoami
   Domeh John Kelvin Tetteh
