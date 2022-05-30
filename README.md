@@ -15,7 +15,7 @@
 Jhohannes
 -----------------
 
-OS:         Windows
+OS:         Linux
 Shell:      ZSH
 Pronouns:   He/Him
 Country:    Ghana
