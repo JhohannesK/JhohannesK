@@ -69,7 +69,8 @@ Learning:   Java
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=JhohannesK&show_icons=true&theme=radical&count_private=true" />
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=JhohannesK&theme=tokyonight" />
 <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhohannesK&layout=compact&theme=radical&repo=github-readme-stats" />
-<a href="https://app.daily.dev/jhohannes" width='50%'><img src="https://api.daily.dev/devcards/57a8ff443afd47cf989323f597410543.png?r=mke" width="400" alt="John Kelvin Tetteh Domeh's Dev Card"/></a>
+<a href="https://app.daily.dev/jhohannes" width='50%'><img src="https://api.daily.dev/devcards/57a8ff443afd47cf989323f597410543.png?r=78t" width="400" alt="John Kelvin Tetteh Domeh's Dev Card"/></a>
+
 
 
 <p align=center>
