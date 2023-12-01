@@ -4,8 +4,6 @@
   
 <p align=center><strong> A passionately curious person </strong></p>
 
-![Profile views](https://gpvc.arturio.dev/JhohannesK)
-
 ```bash
 > whoami
   Domeh John Kelvin Tetteh
@@ -19,8 +17,8 @@ OS:         Linux
 Shell:      ZSH
 Pronouns:   He/Him
 Country:    Ghana
-Languages:  Javascript, Python
-Learning:   TypeScript, Golang
+Languages:  Javascript, Python, TypeScript
+Learning:   C#, Golang
 ```
 
 <h2 align=center>Programming Languages🍃 And Frameworks</h2>
