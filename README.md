@@ -6,19 +6,19 @@
 
 ```bash
 > whoami
-  Domeh John Kelvin Tetteh
+  John Kelvin Tetteh Domeh
 ```
 
 ```python
 Jhohannes
 -----------------
 
-OS:         Linux
+OS:         Linux, Windows, MacOs
 Shell:      ZSH
 Pronouns:   He/Him
 Country:    Ghana
-Languages:  Javascript, Python, TypeScript
-Learning:   C#, Golang
+Languages:  Javascript, Python, TypeScript, C#
+Learning:   Golang
 ```
 
 <h2 align=center>Programming Languages🍃 And Frameworks</h2>
@@ -28,7 +28,6 @@ Learning:   C#, Golang
 </h3>
 <p align=center>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src=https://img.shields.io/badge/golang-0078d7.svg?style=for-the-badge&logo=go&logoColor=white>
@@ -36,17 +35,25 @@ Learning:   C#, Golang
 
 <h3>INTERMEDIATE</h3>
 <p align=center>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
+<br>
+
+<h3>PROFICIENT</h3>
+  <p align=center>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
    <img src="https://img.shields.io/badge/react native-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</p>
-<br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src=https://img.shields.io/badge/.NET-0078d7.svg?style=for-the-badge&logo=dotnet&logoColor=white>
+<img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white>
+    
+  </p>
+
 <!-- Operating System  -->
 <h2 align=center>Operating System 🐧</h2>
 <p align=center>
